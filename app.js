@@ -33,7 +33,7 @@ context.translate(window.innerWidth / 2, window.innerHeight / 2);
 
 const image = new Image();
 image.src = "./jack-kiki-blanket.png";
-const imageScale = 1.0;
+const imageScale = 1.2;
 
 const loops = 50;
 const offsetDistance = 100;
