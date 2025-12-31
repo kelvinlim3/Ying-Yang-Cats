@@ -1,3 +1,5 @@
 # Ying Yang Cats
 
-A tiny canvas experiment adapted from [Pug in a Rug](https://puginarug.com/), but featuring a photo of my cats 🐈‍⬛
+Adapted from [Pug in a Rug](https://puginarug.com/), but with my cats.
+
+Live at https://kelvinlim3.github.io/Ying-Yang-Cats/.
